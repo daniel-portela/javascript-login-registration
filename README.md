@@ -11,12 +11,11 @@ Projeto: Sistema de registro e login com validação JavaScript
 <a href="https://registrologin.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/javascript-login-registration/assets/110783805/b2e8b44a-c55b-4296-bf29-20c7c5bf73ef)
 
+![preview-error](https://github.com/daniel-portela/javascript-login-registration/assets/110783805/9bed2d95-b198-4391-9f9a-0735b78cc470)
 
-![alt text](preview-error.jpg)
-
-![alt text](registro-login-responsivo.jpg)
+![preview-login-responsivo](https://github.com/daniel-portela/javascript-login-registration/assets/110783805/9ee23f07-e67f-4dea-9af1-398eaedfc4eb)
 
 
 A página de registro apresenta campos para inserção de informações pessoais, como nome, sobrenome, endereço de e-mail, número de telefone e senha. Além disso, há validações implementadas para garantir que os dados inseridos sejam formatados corretamente e atendam aos requisitos de segurança, como o formato de e-mail válido e a complexidade da senha.
