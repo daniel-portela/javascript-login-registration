@@ -3,7 +3,7 @@
 Projeto: <a href="https://registrologin.netlify.app/">Sistema de registro e login com validação JavaScript</a>
 
 <p>Este projeto é um sistema de registro e login desenvolvido com tecnologias web, incluindo HTML, CSS e JavaScript. Seu objetivo principal é fornecer aos usuários uma maneira intuitiva e segura de criar uma conta e acessar o sistema posteriormente.</p>
-</div>
+</div><br>
 
 ![preview](https://github.com/daniel-portela/javascript-login-registration/assets/110783805/b2e8b44a-c55b-4296-bf29-20c7c5bf73ef)
 
